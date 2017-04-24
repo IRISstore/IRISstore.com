@@ -8,10 +8,10 @@
       "styling": {
         "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
+        "successColor": "#00a885",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#3d8eb9",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -51,11 +51,11 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "10",
+            "timeout": "5",
             "slides": [
               {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -68,7 +68,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#gallery4-e\" data-toolbar=\"-mbrBtnMove\">บริการ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#features3-j\" data-toolbar=\"-mbrBtnMove\">ผลิตภัณฑ์</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=qpNrtnh0kks",
@@ -168,8 +168,8 @@
           "_name": "header3",
           "_anchor": "header3-n",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#fff",
             "showMeta": false
           },
@@ -276,9 +276,9 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
+            "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
