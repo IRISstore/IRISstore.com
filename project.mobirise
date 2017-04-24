@@ -93,7 +93,7 @@
                 "showText": true,
                 "text": "ผลิตภัณฑ์ไอริสทุกชิ้น ผลิตจากสมุนไพรธรรมชาติ 100%.........",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">เลือกซื้อสินค้า</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#features3-j\" data-toolbar=\"-mbrBtnMove\">เลือกซื้อสินค้า</a> "
               }
             ],
             "fullScreen": true,
